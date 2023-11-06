@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arona NGOM !
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning Web,Android and IOS development. I master HTML/CSS/Bootstrap, JavaScript/VueJs, PHP/MySQL, Symfony and I have some skills in Python, Java and C.
-- 💞️ I’m looking for an an internship or a work-study program.
+- 🌱 I’m currently learning Web,Android and IOS development. I master HTML/CSS/Bootstrap, JavaScript/VueJs, PHP/MySQL, Symfony/Laravel and I have some skills in Python, Java and C.
+- 💞️ I’m looking for an a work-study program.
 - 📫 How to reach me: arona.ngom07@gmail.com
 
 <!---
